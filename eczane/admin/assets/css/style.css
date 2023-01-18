@@ -1,0 +1,81 @@
+.main {
+    width: 87%;
+    margin-left: 16rem;
+}
+.update-form {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin-left: 5rem;
+}
+input#slogan  {
+    height: 60px;
+    font-size: 1.5rem;
+    border-radius: 9px;
+    background-color: #ffffff8f;
+    border: 1px solid #0000002e;
+    margin-bottom: 1.5rem;
+}
+input#baslik {
+    height: 60px;
+    font-size: 1.5rem;
+    border-radius: 9px;
+    background-color: #ffffff8f;
+    border: 1px solid #0000002e;
+    margin-bottom: 1.3rem;
+}
+label{
+    font-size: 1.3rem;
+}
+.title-label {
+    font-weight: 700;
+    color: black;
+    text-decoration: underline;
+    margin-bottom: 1.3rem;
+}
+.user-content{
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items:center;
+}
+input.modal-input {
+    margin-bottom: 1.3rem;
+    width: 100%;
+    font-size: 1.5rem;
+    border: 1px solid #00000033;
+    border-radius: 5px;
+    /* text-align: center; */
+}
+.trx{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.changeSave{
+    width:90px; 
+    text-align: center;
+	height: 40px;
+}
+.user-content{
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items:center;
+}
+.body{
+    width: 900px; 
+    border-right: 1px solid #0000003b;
+}
+.flexx{
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items:center;
+}
